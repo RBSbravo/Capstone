@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ticketing and Task Management System
 
 A comprehensive ticketing and task management system with role-based access across web, mobile, and desktop platforms.
@@ -142,3 +143,7 @@ Please read [CONTRIBUTING.md](docs/CONTRIBUTING.md) for details on our code of c
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+=======
+# Capstone
+Ticketing and Task management system ( Cross-platform)
+>>>>>>> 38c13cd680b9e3867f90842f8510e17d8b3dcff2
